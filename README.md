@@ -5,7 +5,7 @@ For this weeks Homework, I created a timed quiz. It conatins 5 questions, a 60 s
 When the quiz is finished, a scoredboard is created displaying your score. 
 
 ## Screenshot
-
+<img src="assets/images/quiz-ss.png" width="200">
 
 ## Links
 https://github.com/brudter/quiz-project
