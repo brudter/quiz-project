@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav button{
+    background-color: white;
+    border: none;
+    color: purple
+}
+
+main{
+    margin: 20vh;
+    text-align: center;
+}
+
+button{
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
+
